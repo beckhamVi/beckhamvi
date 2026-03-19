@@ -26,6 +26,7 @@ struct Developer {
   bool loves_low_level = true;
 };
 ```
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=C41230&width=520&height=30&lines=//+0x4c6966652069732061+race+condition;//+the+kernel+boots%2C+the+void+remains;//+Arch%3A+I+don't+use+GUIs%2C+I+write+them;//+uint64_t+soul+%3D+0xDEADBEEFCAFEBABE%3B)
 
 ![Status](https://img.shields.io/badge/status-available-22c55e?style=flat-square&labelColor=f0fdf4)
 ![OS](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=flat-square&logo=arch-linux&logoColor=white)
