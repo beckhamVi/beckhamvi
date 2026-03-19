@@ -8,13 +8,12 @@
 
 <table width="100%">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
 ### `github.com/beckhamVi`
 
 **Systems & Backend Engineer**  
 C++ · Spring Boot · React · Arch Linux
-
 ```cpp
 struct Developer {
   string name   = "beckhamVi";
@@ -57,7 +56,7 @@ struct Developer {
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="top" width="50%" align="center">
 
 <img src="./pfp.jpg" width="100%"/>
 
